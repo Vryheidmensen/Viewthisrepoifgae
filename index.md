@@ -9,3 +9,6 @@
 ```
 var hfdskjleieourfjldsk = "frefwjknfkjdljjh ne frhiwou4jfir8 45uhtrgn 84ghruw8yg94rw87hyu45giwr8yrghokesdhjk jhrw ikfjh khbfr s 4";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
